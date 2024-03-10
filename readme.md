@@ -1,5 +1,4 @@
 # ComponentKit 🧩
-![image](https://github.com/00sahad/Component-Kit/assets/109616941/8c4b520d-d665-4dcd-840c-20313055b869)
 
 ComponentKit is your go-to resource for foundational HTML, CSS, and JavaScript components that simplify web development. 🚀
 
